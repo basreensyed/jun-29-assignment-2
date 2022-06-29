@@ -1,0 +1,16 @@
+n=2
+bus={'Rajesh':'pass', 'Ramesh':'fail)
+for i in the range(n):
+   l=input().split()
+   K=l[0]
+   V=l[1]
+   d[k]=v
+for i in range(n):
+  try:
+     C=input()
+      if c in d:
+         print(c,'=',d[c])
+      else:
+         print("Not found ")
+      expect:
+         print()
